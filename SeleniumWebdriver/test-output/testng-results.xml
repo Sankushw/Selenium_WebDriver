@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="175" started-at="2019-08-08T13:09:47Z" finished-at="2019-08-08T13:09:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="175" started-at="2019-08-08T13:09:47Z" finished-at="2019-08-08T13:09:47Z">
+      <class name="Webdriver.demo19_tstNG">
+        <test-method status="PASS" signature="BCodec()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="BCodec" is-config="true" duration-ms="25" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BCodec -->
+        <test-method status="PASS" signature="E()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="E" duration-ms="22" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="F()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="F" duration-ms="4" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- F -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="G()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="G" duration-ms="4" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- G -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="A()[pri:1, instance:Webdriver.demo19_tstNG@4501b7af]" name="A" duration-ms="4" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="B()[pri:4, instance:Webdriver.demo19_tstNG@4501b7af]" name="B" duration-ms="3" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="afterMethod" is-config="true" duration-ms="2" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="C()[pri:9, instance:Webdriver.demo19_tstNG@4501b7af]" name="C" duration-ms="4" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="afterMethod" is-config="true" duration-ms="2" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="AC()[pri:0, instance:Webdriver.demo19_tstNG@4501b7af]" name="AC" is-config="true" duration-ms="0" started-at="2019-08-08T18:39:47Z" finished-at="2019-08-08T18:39:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+      </class> <!-- Webdriver.demo19_tstNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

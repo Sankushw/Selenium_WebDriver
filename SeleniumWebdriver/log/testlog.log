@@ -1,0 +1,4 @@
+2020-12-21 14:48:35,339 - demo20_log4j -INFO - opening website
+2020-12-21 14:48:35,353 - demo20_log4j -INFO - OrangeHRM
+2020-12-21 14:48:39,110 - demo20_log4j -INFO - Logged in
+2020-12-21 14:48:39,128 - demo20_log4j -INFO - compared title-success
